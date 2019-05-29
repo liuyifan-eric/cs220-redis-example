@@ -14,3 +14,4 @@ script:
  - make -C hiredis/
  - make -C tests/
  - ./tests/test-hgetset
+
